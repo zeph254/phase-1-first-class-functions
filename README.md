@@ -232,7 +232,7 @@ in Visual Studio Code.
 To get more practice with first-class functions, this lesson has three tests to
 pass that require you to write the following functions in the `index.js` file:
 
-- The `receivesAFunction` function should:
+-function The `receivesAFunction` function should:
 
   - take a _callback function_ as an argument
   - call the callback function
